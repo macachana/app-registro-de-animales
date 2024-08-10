@@ -1,0 +1,102 @@
+[
+  {
+    "RazaGatos": 1,
+    "EsDomestico": true,
+    "Comportamiento": "Juguetona y cari\u00F1osa",
+    "Nombre": "Luna",
+    "ColorOjos": "Verde",
+    "Edad": 36,
+    "Peso": 4.5,
+    "Sexo": 0
+  },
+  {
+    "RazaGatos": 0,
+    "EsDomestico": true,
+    "Comportamiento": "Tranquilo y perezoso",
+    "Nombre": "oli",
+    "ColorOjos": "Azul",
+    "Edad": 24,
+    "Peso": 5.4,
+    "Sexo": 1
+  },
+  {
+    "RazaGatos": 2,
+    "EsDomestico": true,
+    "Comportamiento": "Protector y curioso",
+    "Nombre": "Simba",
+    "ColorOjos": "\u00C1mbar",
+    "Edad": 48,
+    "Peso": 6,
+    "Sexo": 1
+  },
+  {
+    "RazaGatos": 7,
+    "EsDomestico": true,
+    "Comportamiento": "Energ\u00E9tica y exploradora",
+    "Nombre": "Bella",
+    "ColorOjos": "Amarillo",
+    "Edad": 12,
+    "Peso": 3.2,
+    "Sexo": 0
+  },
+  {
+    "RazaGatos": 4,
+    "EsDomestico": true,
+    "Comportamiento": "Activo y sociable",
+    "Nombre": "Milo",
+    "ColorOjos": "Verde",
+    "Edad": 36,
+    "Peso": 4,
+    "Sexo": 1
+  },
+  {
+    "RazaGatos": 3,
+    "EsDomestico": true,
+    "Comportamiento": "Dulce y relajada",
+    "Nombre": "Chloe",
+    "ColorOjos": "Azul",
+    "Edad": 24,
+    "Peso": 3.5,
+    "Sexo": 2
+  },
+  {
+    "RazaGatos": 5,
+    "EsDomestico": true,
+    "Comportamiento": "Curioso y juguet\u00F3n",
+    "Nombre": "Max",
+    "ColorOjos": "Verde",
+    "Edad": 60,
+    "Peso": 5.5,
+    "Sexo": 1
+  },
+  {
+    "RazaGatos": 9,
+    "EsDomestico": true,
+    "Comportamiento": "Independiente y tranquila",
+    "Nombre": "Daisy",
+    "ColorOjos": "\u00C1mbar",
+    "Edad": 36,
+    "Peso": 4,
+    "Sexo": 0
+  },
+  {
+    "RazaGatos": 8,
+    "EsDomestico": true,
+    "Comportamiento": "Amigable y juguet\u00F3n",
+    "Nombre": "Leo",
+    "ColorOjos": "Amarillo",
+    "Edad": 72,
+    "Peso": 4.8,
+    "Sexo": 1
+  },
+  {
+    "RazaGatos": 1,
+    "EsDomestico": true,
+    "Comportamiento": "Curiosa y afectuosa",
+    "Nombre": "Nala",
+    "ColorOjos": "Verde",
+    "Edad": 24,
+    "Peso": 3.7,
+    "Sexo": 0
+  }
+]

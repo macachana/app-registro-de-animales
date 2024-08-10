@@ -1,0 +1,92 @@
+[
+  {
+    "Raza": "Labrador Retriever",
+    "Tamanio": 2,
+    "Nombre": "Rocky",
+    "ColorOjos": "Marr\u00F3n",
+    "Edad": 36,
+    "Peso": 15.5,
+    "Sexo": 0
+  },
+  {
+    "Raza": "Husky Siberiano",
+    "Tamanio": 2,
+    "Nombre": "Bella",
+    "ColorOjos": "Azul",
+    "Edad": 24,
+    "Peso": 10.3,
+    "Sexo": 1
+  },
+  {
+    "Raza": "Pastor Alem\u00E1n",
+    "Tamanio": 2,
+    "Nombre": "Charlie",
+    "ColorOjos": "Negro",
+    "Edad": 48,
+    "Peso": 18.2,
+    "Sexo": 0
+  },
+  {
+    "Raza": "Beagle",
+    "Tamanio": 1,
+    "Nombre": "Lucy",
+    "ColorOjos": "\u00C1mbar",
+    "Edad": 12,
+    "Peso": 7.4,
+    "Sexo": 1
+  },
+  {
+    "Raza": "Golden Retriever",
+    "Tamanio": 2,
+    "Nombre": "Max",
+    "ColorOjos": "Marr\u00F3n",
+    "Edad": 36,
+    "Peso": 20,
+    "Sexo": 0
+  },
+  {
+    "Raza": "Poodle",
+    "Tamanio": 1,
+    "Nombre": "Daisy",
+    "ColorOjos": "Verde",
+    "Edad": 24,
+    "Peso": 5.6,
+    "Sexo": 1
+  },
+  {
+    "Raza": "Rottweiler",
+    "Tamanio": 2,
+    "Nombre": "Cooper",
+    "ColorOjos": "Gris",
+    "Edad": 60,
+    "Peso": 30.2,
+    "Sexo": 0
+  },
+  {
+    "Raza": "Bulldog Franc\u00E9s",
+    "Tamanio": 1,
+    "Nombre": "Molly",
+    "ColorOjos": "\u00C1mbar",
+    "Edad": 36,
+    "Peso": 6.8,
+    "Sexo": 1
+  },
+  {
+    "Raza": "Boxer",
+    "Tamanio": 2,
+    "Nombre": "Buddy",
+    "ColorOjos": "Verde",
+    "Edad": 48,
+    "Peso": 25,
+    "Sexo": 0
+  },
+  {
+    "Raza": "Dachshund",
+    "Tamanio": 1,
+    "Nombre": "Luna",
+    "ColorOjos": "Marr\u00F3n",
+    "Edad": 24,
+    "Peso": 8.3,
+    "Sexo": 1
+  }
+]
