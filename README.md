@@ -1,4 +1,4 @@
-# app-registro-de-animales
+# APP-REGISTRO-DE-ANIMALES
 registro de animales utilizando base de datos SQL de SQL management server studio, GUI de windows form y C#  
 ## base de datos utilizada en el proyecto a continuacion.
 ```
