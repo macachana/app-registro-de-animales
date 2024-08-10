@@ -1,0 +1,130 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1" MembersFormat="FullSignature">
+  <Class Name="RefugioClases.Animal">
+    <Position X="9.25" Y="0.5" Width="4.75" />
+    <TypeIdentifier>
+      <HashCode>AAAAgEAAAATAAECAwAUBhAAEAAAAAgAAAAIAAAAAAiA=</HashCode>
+      <FileName>Animal.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" />
+  </Class>
+  <Class Name="RefugioClases.Gato">
+    <Position X="14.5" Y="7.5" Width="8.25" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAQAAEAEwAEBAAAAAEAAAABAAAAAiAAAAqg=</HashCode>
+      <FileName>Gato.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" />
+  </Class>
+  <Class Name="RefugioClases.Perro">
+    <Position X="7.75" Y="7.5" Width="6.5" />
+    <TypeIdentifier>
+      <HashCode>AAQAAAAEAAQAgEAEwIEBAAAAAAAAAAAAAAAAAAAAAiA=</HashCode>
+      <FileName>Perro.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" />
+  </Class>
+  <Class Name="RefugioClases.Tigre">
+    <Position X="0.5" Y="7.5" Width="7" />
+    <TypeIdentifier>
+      <HashCode>AQAAAAAAAAQAAEAEwAEBAAAgAAAAIAAAAAAAAAEAAiA=</HashCode>
+      <FileName>Tigre.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" />
+  </Class>
+  <Class Name="RefugioClases.Refugio">
+    <Position X="19.25" Y="0.75" Width="5.25" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAwAMAIAACAAAAAIAAAAAAAAAAAiA=</HashCode>
+      <FileName>Refugio.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="RefugioClases.ExcepcionBD">
+    <Position X="23.25" Y="7.75" Width="5.25" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAEAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>ExcepcionBD.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="RefugioClases.ExcepcionsListas">
+    <Position X="23.25" Y="10" Width="5.25" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAEAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>ExcepcionsListas.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="RefugioClases.GenericArchivos&lt;T&gt;">
+    <Position X="20" Y="5" Width="4" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAQAAAAAAAAAAgAAACAAAACAAAQAAAAAAAEAAA=</HashCode>
+      <FileName>GenericArchivos.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="RefugioClases.ManejadorEventos">
+    <Position X="25" Y="1" Width="4" />
+    <NestedTypes>
+      <Delegate Name="RefugioClases.ManejadorEventos.PerroEventHandler" Collapsed="true">
+        <TypeIdentifier>
+          <NewMemberFileName>ManejadorEventos.cs</NewMemberFileName>
+        </TypeIdentifier>
+      </Delegate>
+      <Delegate Name="RefugioClases.ManejadorEventos.GatoEventHandler" Collapsed="true">
+        <TypeIdentifier>
+          <NewMemberFileName>ManejadorEventos.cs</NewMemberFileName>
+        </TypeIdentifier>
+      </Delegate>
+      <Delegate Name="RefugioClases.ManejadorEventos.TigreEventHadler" Collapsed="true">
+        <TypeIdentifier>
+          <NewMemberFileName>ManejadorEventos.cs</NewMemberFileName>
+        </TypeIdentifier>
+      </Delegate>
+    </NestedTypes>
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAEABAAGIgQAlAAgABAAADgAABgAAgDAAQAAA=</HashCode>
+      <FileName>ManejadorEventos.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Interface Name="RefugioClases.IFiltro">
+    <Position X="14.5" Y="0.5" Width="4.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAEAAAAABAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>IFiltro.cs</FileName>
+    </TypeIdentifier>
+  </Interface>
+  <Interface Name="RefugioClases.Iordenamiento&lt;T&gt;">
+    <Position X="15" Y="2.75" Width="3.75" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAECAAAAAAAAAAAAAAAABCAAAAAAAA=</HashCode>
+      <FileName>Iordenamiento.cs</FileName>
+    </TypeIdentifier>
+  </Interface>
+  <Enum Name="ESexo">
+    <Position X="5.25" Y="2" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAIAgAAAAAAAAAAAAAIAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Enumerados.cs</FileName>
+    </TypeIdentifier>
+  </Enum>
+  <Enum Name="EsubEspecie">
+    <Position X="3.5" Y="2" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AIAAAAAAAABABAAAAAAAQQAAAAEAAIBEIAAAAAAAAAA=</HashCode>
+      <FileName>Enumerados.cs</FileName>
+    </TypeIdentifier>
+  </Enum>
+  <Enum Name="Etamanio">
+    <Position X="5.25" Y="3.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAIAAAAAAAAAAABAAgAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Enumerados.cs</FileName>
+    </TypeIdentifier>
+  </Enum>
+  <Enum Name="ERazaGatos">
+    <Position X="1.75" Y="1.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>gAASAAEAABBADEwAAAAAAEQAABAAAIAECAAAAAAAAAA=</HashCode>
+      <FileName>Enumerados.cs</FileName>
+    </TypeIdentifier>
+  </Enum>
+  <Font Name="Segoe UI" Size="9" />
+</ClassDiagram>

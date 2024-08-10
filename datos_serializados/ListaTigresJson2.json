@@ -1,0 +1,92 @@
+[
+  {
+    "SubEspecie": 0,
+    "Habitat": "Bosques y praderas de la India",
+    "Nombre": "Raj",
+    "ColorOjos": "Ambar",
+    "Edad": 36,
+    "Peso": 190,
+    "Sexo": 1
+  },
+  {
+    "SubEspecie": 7,
+    "Habitat": "Bosques de Siberia",
+    "Nombre": "Shira",
+    "ColorOjos": "Verde",
+    "Edad": 24,
+    "Peso": 150,
+    "Sexo": 0
+  },
+  {
+    "SubEspecie": 0,
+    "Habitat": "Bosques del sudeste asi\u00E1tico",
+    "Nombre": "Kum",
+    "ColorOjos": "Ambar",
+    "Edad": 48,
+    "Peso": 220,
+    "Sexo": 1
+  },
+  {
+    "SubEspecie": 3,
+    "Habitat": "Bosques de Sumatra",
+    "Nombre": "Luna",
+    "ColorOjos": "Ambar",
+    "Edad": 18,
+    "Peso": 130,
+    "Sexo": 0
+  },
+  {
+    "SubEspecie": 10,
+    "Habitat": "Regiones deserticas",
+    "Nombre": "Sundar",
+    "ColorOjos": "Verde",
+    "Edad": 60,
+    "Peso": 250,
+    "Sexo": 1
+  },
+  {
+    "SubEspecie": 0,
+    "Habitat": "Bosques tropicales de Malasia",
+    "Nombre": "May",
+    "ColorOjos": "Ambar",
+    "Edad": 30,
+    "Peso": 160,
+    "Sexo": 0
+  },
+  {
+    "SubEspecie": 0,
+    "Habitat": "Isla de Java",
+    "Nombre": "Rav",
+    "ColorOjos": "Verde",
+    "Edad": 42,
+    "Peso": 200,
+    "Sexo": 1
+  },
+  {
+    "SubEspecie": 8,
+    "Habitat": "Isla de Bali",
+    "Nombre": "Nina",
+    "ColorOjos": "Ambar",
+    "Edad": 15,
+    "Peso": 120,
+    "Sexo": 0
+  },
+  {
+    "SubEspecie": 0,
+    "Habitat": "Bosques y praderas",
+    "Nombre": "Tara",
+    "ColorOjos": "Verde",
+    "Edad": 54,
+    "Peso": 210,
+    "Sexo": 0
+  },
+  {
+    "SubEspecie": 7,
+    "Habitat": "Bosques de Siberia",
+    "Nombre": "Arjun",
+    "ColorOjos": "Ambar",
+    "Edad": 66,
+    "Peso": 230,
+    "Sexo": 2
+  }
+]
